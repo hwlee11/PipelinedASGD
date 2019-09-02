@@ -2,7 +2,7 @@
 
 This repository is codes for pipelined SGD experiment.
 
-also, I implemented DDG[1] model for baseline experiment.
+Also, I implemented DDG[1] model for baseline experiment.
 
 Pipelined SGD is experimented with resnet110 model and Cifar10,100 image dataset.
 
